@@ -1,15 +1,5 @@
 import React, { useEffect, useState } from "react";
 import HeroImg from "../assets/contact-1.jpg";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import Contact from "../components/Contact";
-// import axios from "axios";
-
-import {
-  AiOutlineTwitter,
-  AiOutlineYoutube,
-  AiOutlineFacebook,
-} from "react-icons/ai";
 
 const Hero = () => {
   const [title, setTitle] = useState("");

@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import { Link } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
 import googleLogo from "../images/googlelogo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
