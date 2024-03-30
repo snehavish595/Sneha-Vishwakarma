@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sneha-Vishwakarma/static/css/main.9136b9c1.css",
+    "main.js": "/Sneha-Vishwakarma/static/js/main.e9f2e123.js",
+    "static/js/453.1407b060.chunk.js": "/Sneha-Vishwakarma/static/js/453.1407b060.chunk.js",
+    "static/media/medical-store.png": "/Sneha-Vishwakarma/static/media/medical-store.7940459c83c9bb628581.png",
+    "static/media/contact-1.jpg": "/Sneha-Vishwakarma/static/media/contact-1.e458a7db865883881b13.jpg",
+    "static/media/about-removebg-preview.png": "/Sneha-Vishwakarma/static/media/about-removebg-preview.6844f702728105b9a080.png",
+    "static/media/expense.png": "/Sneha-Vishwakarma/static/media/expense.e027c8a598d4f4c89c52.png",
+    "static/media/wave-haikei.svg": "/Sneha-Vishwakarma/static/media/wave-haikei.0aaef1c0fdf1a2f2dbb9242a9c5d1b80.svg",
+    "index.html": "/Sneha-Vishwakarma/index.html",
+    "main.9136b9c1.css.map": "/Sneha-Vishwakarma/static/css/main.9136b9c1.css.map",
+    "main.e9f2e123.js.map": "/Sneha-Vishwakarma/static/js/main.e9f2e123.js.map",
+    "453.1407b060.chunk.js.map": "/Sneha-Vishwakarma/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9136b9c1.css",
+    "static/js/main.e9f2e123.js"
+  ]
+}
