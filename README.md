@@ -1,5 +1,5 @@
-                                                                                           Portfolio Website - v2.0
-                                                                              https://snehavish595.github.io/Sneha-Vishwakarma
+                                                                    Portfolio Website - v2.0
+                                                          https://snehavish595.github.io/Sneha-Vishwakarma
 
 
 
